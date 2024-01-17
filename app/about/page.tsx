@@ -55,7 +55,7 @@ const About = (): JSX.Element => {
                 </div>
                 <div className="flex w-[85px] h-[900px] items-center justify-center gap-px px-[32px] py-[48px] absolute top-0 left-0 bg-white overflow-hidden border-r [border-right-style:solid] border-[#ababab]">
                     <div className="flex h-[21px] items-center justify-center gap-[199px] relative flex-1 grow -rotate-90">
-                        <Link href="bunhere.com" target="_blank">
+                        <Link href="https://bunhere.com/" target="_blank">
                             <div className="relative flex-1 mt-[-3.00px] mb-[-1.00px] [font-family:'Abel',Helvetica] font-normal text-black text-[20px] tracking-[0] leading-[normal]">
                                 More
                             </div>
